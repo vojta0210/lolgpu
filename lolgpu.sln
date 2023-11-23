@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lolgpu", "lolgpu.csproj", "{E61C1516-192C-4F6B-A52C-130D6D183C6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E61C1516-192C-4F6B-A52C-130D6D183C6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E61C1516-192C-4F6B-A52C-130D6D183C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E61C1516-192C-4F6B-A52C-130D6D183C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E61C1516-192C-4F6B-A52C-130D6D183C6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E42B682-0F5A-4F15-BDEC-050BF314BF8A}
+	EndGlobalSection
+EndGlobal
